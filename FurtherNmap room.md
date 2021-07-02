@@ -115,7 +115,7 @@
 ![Picture1](https://user-images.githubusercontent.com/47929033/124309593-3c06e300-db6b-11eb-822f-6431335579e7.png)
 
 ###### Searching for ftp.anon.nse scripts and we can show the script content with cat command 
-###### Scrolling down with mouse and looking for –script just like the photo below
+###### Scrolling down with mouse and looking for –script just like the photo below : 
 
 
 
