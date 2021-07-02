@@ -139,6 +139,11 @@
 ###### Answer is –data-length   by using command (nmap –h) just like photo below : 
 ![Picture1](https://user-images.githubusercontent.com/47929033/124310495-905e9280-db6c-11eb-9d81-59edcb01905f.png)
 
+###### Task 14) Practical 
+###### in this task I deployed thm machine in this room to start answering the questions
+###### 1) Does the target (10.10.101.81)respond to ICMP (ping) requests (Y/N)? 
+
+
 
 
 
