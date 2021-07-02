@@ -23,4 +23,26 @@
 ###### 3) If you wanted to detect which operating system the target is running on, which switch would you use? 
 ###### Answer is  –O (by using command (nmap –h ) can show OS detection)
 
+###### 4) Nmap provides a switch to detect the version of the services running on the target. What is this switch?
+###### Answer is  -sV  (by using command (nmap –h ) can show versions and services detection) 
+###### 5) The default output provided by nmap often does not provide enough information for a pentester. How would you increase the verbosity?
+###### Answer is –v  (by using command (nmap –h ) can show OUTPUT section) 
+###### 6) Verbosity level one is good, but verbosity level two is better! How would you set the verbosity level to two? (Note: it's highly advisable to always use at least this option)
+###### Answer is –vv (showing more output by adding v  --> verbosity) 
+###### 7) What switch would you use to save the nmap results in three major formats? 
+###### Answer is –oA  (by using command (nmap –h ) can show OUTPUT section)
+###### -oA --> Output in the three major formats at once
+###### 8) What switch would you use to save the nmap results in a "normal" format? 
+###### Answer is –oN  (by using command (nmap –h ) can show OUTPUT section) 
+###### 9) A very useful output format: how would you save results in a "grepable" format? 
+###### Answer is –oG (by using command (nmap –h ) can show OUTPUT section) 
+###### 10) Sometimes the results we're getting just aren't enough. If we don't care about how loud we are, we can enable "aggressive" mode. This is a shorthand switch that activates service detection, operating system detection, a traceroute and common script scanning.   How would you activate this setting? 
+###### Answer is –A   …  by adding  the -A flag on your Nmap command, you can discover the operating system information of the hosts that are mapped. The -A flag can be used in combination with other Nmap commands. Using the -O flag on your Nmap command will reveal further operating system information of the mapped hosts
+###### 11) Nmap offers five levels of "timing" template. These are essentially used to increase the speed your scan runs at. Be careful though: higher speeds are noisier, and can incur errors!   How would you set the timing template to level 5? 
+###### Answer is –T5  (by using command (nmap –h ) can show TIMING AND PERFORMANCE)
+###### 12) We can also choose which port(s) to scan How would you tell nmap to only scan port 80?
+###### Answer is –p 80 (by using command (nmap –h ) can show PORT SPECIFICATION AND SCAN ORDER)
+###### 13) How would you tell nmap to scan ports 1000-1500?
+
+
  
