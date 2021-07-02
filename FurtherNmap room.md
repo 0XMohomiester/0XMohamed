@@ -137,6 +137,9 @@
 ###### Answer is ICMP   why icmp? Because most firewall blocked icmp ping request from another machines on the network 
 ###### 2) [Research] Which Nmap switch allows you to append an arbitrary length of random data to the end of packets?
 ###### Answer is –data-length   by using command (nmap –h) just like photo below : 
+![Picture1](https://user-images.githubusercontent.com/47929033/124310495-905e9280-db6c-11eb-9d81-59edcb01905f.png)
+
+
 
 
 
