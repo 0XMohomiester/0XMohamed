@@ -60,6 +60,14 @@
 ###### Answer is delicious … just like the photo below: 
 ![Screenshot_2021-06-10_13_17_56](https://user-images.githubusercontent.com/47929033/124305481-71a8cd80-db65-11eb-9f96-5a166dad1703.png)
 
+###### Task 10) Explaining Difile Hellman key exchange 
+###### 1) I understand how Diffie Hellman Key Exchange works at a basic level
+###### No Answer Needed 
+###### Task 11) PGP, GPG, AES 
+###### 1) Time to try some GPG. Download the archive attached and extract it somewhere sensible. 
+###### No Answer Needed
+
+
 
 
 
