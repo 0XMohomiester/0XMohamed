@@ -89,6 +89,32 @@
 ###### 1) Which of the three shown scan types uses the URG flag?
 
 ###### Answer is xmas    which xmas send (PSH, URG and FIN)  flags to client and if port is closed client respond with RST flag 
+![ABCxAwf](https://user-images.githubusercontent.com/47929033/124309351-dfa3c380-db6a-11eb-9f12-63c03520b5e9.png)
+
+###### 2) Why are NULL, FIN and Xmas scans generally used? 
+###### Answer is Firewall Evasion ….   Many firewalls are configured to drop incoming TCP packets to blocked ports which have the SYN flag set by sending requests which do not contain the SYN flag we effectively bypass this kind of firewall  
+###### 3) Which common OS may respond to a NULL, FIN or Xmas scan with a RST for every port? 
+###### Answer is Microsoft Windows   in Microsoft Windows are known to respond with a RST to any malformed TCP packet regardless of whether the port is open or not. This results in all ports showing up as being closed. 
+###### Task 9) ICMP Network Scanning 
+###### 1) How would you perform a ping sweep on the 172.16.x.x network (Netmask: 255.255.0.0) using Nmap? (CIDR notation) 
+###### Answer is nmap –sn 172.16.0.0/16 this type of scan called ping sweep. Which client send icmp packet to each possible ip address on the network  
+
+###### Task 10) NSE overview
+###### In this task I learned what is NSE?  and how to use? And why I need it?  NSE is standard for Nmap Scripting Engine thar user in vulnerability scanning and is written in lua programming language which contain some category just like: intrusive, vuln, exploit 
+###### 1) What language are NSE scripts written in? 
+###### Answer is Lua 
+###### 2) Which category of scripts would be a very bad idea to run in a production environment?  
+###### Answer is intrusive
+
+###### Task 11) Working with NSE 
+###### If we need to use NSE we can use he following command :
+###### Nmap –script=<script name> 
+###### 1) What optional argument can the ftp-anon.nse script take? 
+###### Answer is maxlist   we can go to directory which Nmap saved scripts: /usr/share/nmap/scripts 
+###### Just like the Photo Below : 
+
+
+
 
 
 
