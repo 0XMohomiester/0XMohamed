@@ -43,6 +43,13 @@
 ###### 1) What company is TryHackMe's certificate issued to? 
 ###### Answer is “Cloudflare” …. Just Like the Photo Below: 
 ![cert](https://user-images.githubusercontent.com/47929033/124304580-2e019400-db64-11eb-8b7d-cf90acca62d6.png)
+###### Task 9) SSH Authentication
+###### 1) I recommend giving this a go yourself. Deploy a VM, like Linux Fundamentals 2 and try to add an SSH key and log in with the private key  
+###### No Answer Needed 
+###### 2) Download the SSH Private Key attached to this room 
+###### No Answer Needed 
+###### 3) What algorithm does the key use? 
+###### Answer is RSA … Just Like the Photo Below:
 
 
 
