@@ -20,6 +20,22 @@
 ###### 1) What's 30 % 5? 
 ###### Answer is 0 
 ###### 2) What's 25 % 7
+###### Answer is 4 
+###### 3) What's 118613842 % 9091?
+###### Answer is 3565 
+###### Task 5) Types of Encryptions
+###### 1)	Should you trust DES? Yea/Nay –
+###### Answer is Nay  
+###### Symmetric encryption are DES (Broken) and AES. These algorithms tend to be faster than asymmetric cryptography and use smaller keys (128- or 256-bit keys are common for AES, DES keys are 56 bits long). 
+###### 2) What was the result of the attempt to make DES more secure so that it could be used for longer?
+###### Answer is Triple DES 
+###### 3) Is it ok to share your public key? Yea/Nay
+###### Yea - Because public key encrypt data only not decrypt 
+ ###### Task 6) RSA – Rivest shamir Adleman 
+###### 1)  p = 4391, q = 6659. What is n? 
+###### Answer is 29239669 … just like the photo below:
+![Screen Shot 2021-06-10 at 6 46 37 PM](https://user-images.githubusercontent.com/47929033/124304082-85533480-db63-11eb-8fad-4a7e50c2a260.png)
+
 
 
 
