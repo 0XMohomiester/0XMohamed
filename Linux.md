@@ -44,6 +44,8 @@
 ###### Answer is su user2 
 ###### 3) Output the contents of "important", what is the flag? 
 ###### Answer is THM{SU_USER2} …  just like this: 
+![Picture1](https://user-images.githubusercontent.com/47929033/124280694-47e1ad80-db49-11eb-90b7-6ec55955c777.png)
+
 
 
 
