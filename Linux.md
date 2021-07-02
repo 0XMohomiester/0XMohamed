@@ -39,7 +39,7 @@
 ###### Let's start with questions: 
 ###### 1) On the deployable machine, who is the owner of "important"? 
 ###### Answer is user2 …  just like The photo below:
-![user2](https://user-images.githubusercontent.com/47929033/ 124279738-22a06f80-db48-11eb-9b62-090e08b2b880.png)
+
 
 
 
