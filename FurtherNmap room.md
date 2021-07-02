@@ -149,6 +149,12 @@
 ###### Answer is 999   in practical : 
 ###### I used this command : sudo nmap -sX -p1-999 -Pn 10.10.101.81
 ###### -sX for xmas scan, -p1-999 to scan from port 1 to 999, -Pn for Firewall Evasion 
+![Picture1](https://user-images.githubusercontent.com/47929033/124311043-635eaf80-db6d-11eb-8173-4c2b4613b931.png)
+
+###### 3) There is a reason given for this -- what is it? 
+###### Note: The answer will be in your scan results. Think carefully about which switches to use -- and read the hint before asking for help!
+###### Answer is No response 
+
 
 
 
