@@ -156,6 +156,12 @@
 ###### Answer is No response 
 ![Picture1](https://user-images.githubusercontent.com/47929033/124311744-7faf1c00-db6e-11eb-9482-50a9d63b5d46.png)
 
+###### We can add  –vv for more details and very verbosity we can look to the previous photo which packet is recvd :0 … then no response from machine 
+###### 4) Perform a TCP SYN scan on the first 5000 ports of the target -- how many ports are shown to be open? 
+###### Answer is 5   by using command sudo nmap -sT -Pn -p0-5000 10.10.101.81
+###### Just like this :  
+
+
 
 
 
