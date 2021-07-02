@@ -42,7 +42,26 @@
 ###### Answer is –T5  (by using command (nmap –h ) can show TIMING AND PERFORMANCE)
 ###### 12) We can also choose which port(s) to scan How would you tell nmap to only scan port 80?
 ###### Answer is –p 80 (by using command (nmap –h ) can show PORT SPECIFICATION AND SCAN ORDER)
-###### 13) How would you tell nmap to scan ports 1000-1500?
+###### 13) How would you tell nmap to scan ports 1000-1500?  
+###### Answer is –p 1000-1500 (by using command (nmap –h ) can show PORT SPECIFICATION AND SCAN ORDER)
+###### 14) How would you tell nmap to scan all ports? 
+###### Answer is –p- (by using command (nmap –h ) can show PORT SPECIFICATION AND SCAN ORDER)
+###### 15) How would you activate a script from the nmap scripting library (lots more on this later!? 
+###### Answer is –scripts (by using command (nmap –h ) can show scripts scan)
+###### 16) How would you activate all of the scripts in the "vuln" category?
+###### Answer is -–script=vuln (by using command (nmap –h ) can show scrips scan) 
+###### --script=<Lua scripts>
+###### Task 4 ) scan types  Overview 
+###### In this task THM show me scan types and techniques three basics scan types:
+###### 1) TCP connect scan (-sT)
+###### 2) SYN “half-open” scan (-sS)
+###### 3) UDP scan (-sU)
+###### Another scan types:
+###### 1) TCP Null Scans
+###### 2) TCP FIN Scans
+###### 3) TCP Xmas Scans 
+###### No answer needed. 
+
 
 
  
