@@ -55,6 +55,11 @@
 ![Screenshot_2021-06-10_13_11_51](https://user-images.githubusercontent.com/47929033/124305069-e2031f00-db64-11eb-8e26-cfb21c64dc91.png)
 
 ![Screenshot_2021-06-10_13_14_01](https://user-images.githubusercontent.com/47929033/124305148-fc3cfd00-db64-11eb-8744-7ebc56f41d32.png)
+###### As you see I used ssh2john to extract hash to crack it with johntheripper
+###### 4) Crack the password with John the Ripper and rockyou, what's the passphrase for the key?
+###### Answer is delicious … just like the photo below: 
+![Screenshot_2021-06-10_13_17_56](https://user-images.githubusercontent.com/47929033/124305481-71a8cd80-db65-11eb-9f96-5a166dad1703.png)
+
 
 
 
