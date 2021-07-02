@@ -130,6 +130,7 @@
 
 ###### 2) Read through this script. What does it depend on?
 ###### Answer is smb-brute    just like photo below : 
+![Picture1](https://user-images.githubusercontent.com/47929033/124310324-4d9cba80-db6c-11eb-8800-f7345be29563.png) 
 
 
 
