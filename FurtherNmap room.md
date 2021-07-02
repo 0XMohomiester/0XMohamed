@@ -61,6 +61,35 @@
 ###### 2) TCP FIN Scans
 ###### 3) TCP Xmas Scans 
 ###### No answer needed. 
+###### Task 5) Tcp Connect Scan 
+###### In this task I learned how devices and computer communicate with each other over the network and how to monitor network traffic with wireshark and understand what is 
+###### 3-way-handshake … 
+###### 1) Which RFC defines the appropriate behaviour for the TCP protocol? 
+###### Answer is RFC 793     which. An RFC standard for (request for comment) based on TCP 
+###### 2) If a port is closed, which flag should the server send back to indicate this? 
+###### Answer is RCT   which means to reset flag because port is closed on target machine 
+
+###### Task 6)  SYN SCAN 
+###### In this task I learned some techniques about scan types just like syn scan which attacker send syn flag packet to target machine to scan open port if port is open target machine responded to attacker with (syn/ack) flag which acknowledge with connection Then attacker terminate the connection with RST flag which means to:
+###### (Half-open scan or stealth scan) 
+
+###### 1) There are two other names for a SYN scan, what are they? 
+###### Answer is Half-open scans or Stealth scans.  why? Because it depends on two operation --> (syn flag, syn/ack) doesn't complete  3-way-handshake
+###### 2) Can Nmap use a SYN scan without Sudo permissions (Y/N)? 
+###### Answer is N 
+
+###### Task 7) UDP SCAN 
+###### 1) If a UDP port doesn't respond to an Nmap scan, what will it be marked as? 
+###### Answer is open/filtered 
+###### 2) When a UDP port is closed, by convention the target should send back a "port unreachable" message. Which protocol would it use to do so? 
+###### Answer is icmp   which icmp 
+
+###### Task 8) NULL, FIN, XMAS 
+###### In this task I learned another techniques about scan types which are null fin xmas lest start with first question 
+###### 1) Which of the three shown scan types uses the URG flag?
+
+###### Answer is xmas    which xmas send (PSH, URG and FIN)  flags to client and if port is closed client respond with RST flag 
+
 
 
 
