@@ -7,5 +7,3 @@
 ###### Let's start with ... What is SSH?  and how Does it work?  
 ###### SSH is standard for (Secure shell) is a protocol between devices in an encrypted tunnel that allows machines to connect to each other over the Network (encrypted Traffic) just like this: 
 ![ssh1](/Users/mohamed/Documents/GitHub/0XMohamed/ssh1.gpg "ssh1") 
-#
- 
