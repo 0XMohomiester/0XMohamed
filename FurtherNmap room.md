@@ -159,7 +159,15 @@
 ###### We can add  –vv for more details and very verbosity we can look to the previous photo which packet is recvd :0 … then no response from machine 
 ###### 4) Perform a TCP SYN scan on the first 5000 ports of the target -- how many ports are shown to be open? 
 ###### Answer is 5   by using command sudo nmap -sT -Pn -p0-5000 10.10.101.81
-###### Just like this :  
+###### Just like this : 
+![Picture1](https://user-images.githubusercontent.com/47929033/124311958-d6b4f100-db6e-11eb-9432-d50c4e3bd575.png)
+
+###### 5) Deploy the ftp-anon script against the box. Can Nmap login successfully to the FTP server on port 21? (Y/N) 
+###### Answer is Y 
+
+###### Task 15) Conclusion
+###### Now I understand how Nmap work and know how to use it in penetration testing :)
+
 
 
 
