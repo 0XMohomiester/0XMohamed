@@ -128,6 +128,8 @@
 ###### Answer is smb-os-discovery.nse   look to the below page : 
 ![Picture1](https://user-images.githubusercontent.com/47929033/124310043-ec74e700-db6b-11eb-84f4-069bb8f2f215.png)
 
+###### 2) Read through this script. What does it depend on?
+###### Answer is smb-brute    just like photo below : 
 
 
 
