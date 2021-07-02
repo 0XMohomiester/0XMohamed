@@ -65,7 +65,10 @@
 ###### No Answer Needed 
 ###### Task 11) PGP, GPG, AES 
 ###### 1) Time to try some GPG. Download the archive attached and extract it somewhere sensible. 
-###### No Answer Needed
+###### No Answer Needed 
+###### 2) You have the private key, and a file encrypted with the public key. Decrypt the file. What's the secret word?  
+###### Answer is Pineapple  … Just Like The Photo Below
+ 
 
 
 
