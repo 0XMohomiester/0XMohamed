@@ -35,6 +35,14 @@
 ###### 1)  p = 4391, q = 6659. What is n? 
 ###### Answer is 29239669 … just like the photo below:
 ![Screen Shot 2021-06-10 at 6 46 37 PM](https://user-images.githubusercontent.com/47929033/124304082-85533480-db63-11eb-8fad-4a7e50c2a260.png)
+###### 2) I understand enough about RSA to move on, and I know where to look to learn more if I want to. - No Answer is needed 
+###### Task 7) Establishing keys Using Asymmetric Cryptography 
+###### 1) I understand how keys can be established using Public Key (asymmetric) cryptography. 
+###### No Answer Needed 
+###### Task 8) Digital Signatures and Certificates 
+###### 1) What company is TryHackMe's certificate issued to? 
+###### Answer is “Cloudflare” …. Just Like the Photo Below:  
+
 
 
 
