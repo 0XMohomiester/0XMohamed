@@ -45,6 +45,22 @@
 ###### 3) Output the contents of "important", what is the flag? 
 ###### Answer is THM{SU_USER2} …  just like this: 
 ![Picture1](https://user-images.githubusercontent.com/47929033/124280694-47e1ad80-db49-11eb-90b7-6ec55955c777.png)
+###### Task 6) common directories 
+###### 1) READ ME 
+###### No Answer Needed 
+###### 2) What is the directory path that would we expect logs to be stored in? 
+###### Answer is /var/log … which var means to variable data this folder stores the data that is  written by services or applications running on system just like logs file … 
+###### 3) What root directory is similar to how RAM on a computer works?  
+###### Answer is /tmp   …  tmp means to temporary if the computer is restarted the data in this folder are cleared out   
+###### 4) Name the home directory of the root user? 
+###### Answer is /root
+###### 5) Now apply your learning and navigate through these directories on the deployed Linux machine. 
+###### No Answer Needed 
+###### Task 7) conclusion and summaries 
+###### I learned how to interact with Linux file system and common directories which I need to know  and how ssh works  and how to use it between machines over the Network …... :)
+
+
+
 
 
 
