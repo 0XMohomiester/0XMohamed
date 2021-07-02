@@ -40,6 +40,12 @@
 ###### 1) On the deployable machine, who is the owner of "important"? 
 ###### Answer is user2 …  just like The photo below:
 ![user2](https://user-images.githubusercontent.com/47929033/124280038-7f038f00-db48-11eb-880f-c37b7f317828.png)
+###### 2) What would the command be to switch to the user "user2"? 
+###### Answer is su user2 
+###### 3) Output the contents of "important", what is the flag? 
+###### Answer is THM{SU_USER2} …  just like this: 
+
+
 
 
 
