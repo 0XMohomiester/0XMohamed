@@ -143,6 +143,13 @@
 ###### in this task I deployed thm machine in this room to start answering the questions
 ###### 1) Does the target (10.10.101.81)respond to ICMP (ping) requests (Y/N)? 
 ###### Answer is N    in practical : 
+![Picture1](https://user-images.githubusercontent.com/47929033/124310852-167ad900-db6d-11eb-90dd-fdb69493cd25.png) 
+
+###### 2) Perform an Xmas scan on the first 999 ports of the target -- how many ports are shown to be open or filtered? 
+###### Answer is 999   in practical : 
+###### I used this command : sudo nmap -sX -p1-999 -Pn 10.10.101.81
+###### -sX for xmas scan, -p1-999 to scan from port 1 to 999, -Pn for Firewall Evasion 
+
 
 
 
