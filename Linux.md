@@ -6,7 +6,6 @@
 ###### Now I will deploy the machine (THM MACHINE) and connect to the THM Network Using OpenVPN ..
 ###### Let's start with ... What is SSH?  and how Does it work?  
 ![Tux, the Linux mascot](/ssh.png) 
-
 ###### 
 ###### 
 ###### 
