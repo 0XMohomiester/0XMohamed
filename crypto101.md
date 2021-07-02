@@ -1,6 +1,7 @@
 ### Hello This is my writeup for Encryption Crypto101 THM room Let’s start with  
 ###### Task 1) I am ready to learn about encryption  
-###### No Answer Needed  Task 2)  
+###### No Answer Needed  
+###### Task 2)  
 ###### 1) I agree not to complain too much about how theory heavy this room is. 
 ###### No Answer Needed 
 ###### 2) Are SSH keys protected with a passphrase or a password? 
