@@ -69,6 +69,9 @@
 ###### 2) You have the private key, and a file encrypted with the public key. Decrypt the file. What's the secret word?  
 ###### Answer is Pineapple  … Just Like The Photo Below:
 ![Screenshot_2021-06-11_15_08_45](https://user-images.githubusercontent.com/47929033/124305814-dd8b3600-db65-11eb-99be-f7ddf6b1b3c5.png)
+###### Task 12) I understand that quantum computers affect the future of encryption. I know where to look if I want to learn more. 
+###### No Answer Needed  
+ 
 
  
 
