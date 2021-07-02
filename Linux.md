@@ -24,6 +24,18 @@
 ###### 3) What flag would we use to display the output in a "human-readable" way?
 ###### Answer is –h    from manual page of ls command: 
 ![ls](https://user-images.githubusercontent.com/47929033/124279076-5333d980-db47-11eb-9f82-67c5b1baf91d.png)
+###### Task 4) filesystem interaction continued: 
+###### 1) How would you create the file named "newnote"? 
+###### Answer is touch newnote …. which touch command used to create a newfile  
+###### 2) On the deployable machine, what is the file type of "unknown1" in "tryhackme's" home directory? 
+###### Answer is ASCII TEXT ... by using file command which prints type of file 
+###### 3) How would we move the file "myfile" to the directory "myfolder" ? 
+###### Answer is mv myfile myfolder .. mv <file> <destination>
+###### 4) What are the contents of this file? 
+###### Answer is THM{FILESYSTEM} ... BY Using Cat Command to print content of the file 
+###### 5) continue to apply your knowledge and practice the commands from this task. 
+###### No Answer Needed
+
 
 
 
