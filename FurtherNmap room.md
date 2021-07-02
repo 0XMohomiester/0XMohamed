@@ -126,6 +126,9 @@
 ###### 1) Search for "smb" scripts in the /usr/share/nmap/scripts/ directory using either of the demonstrated methods.
 ###### What is the filename of the script which determines the underlying OS of the SMB server? 
 ###### Answer is smb-os-discovery.nse   look to the below page : 
+![Picture1](https://user-images.githubusercontent.com/47929033/124310043-ec74e700-db6b-11eb-84f4-069bb8f2f215.png)
+
+
 
 
 
