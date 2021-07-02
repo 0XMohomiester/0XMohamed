@@ -51,6 +51,10 @@
 ###### 3) What algorithm does the key use? 
 ###### Answer is RSA … Just Like the Photo Below:
 ![Screenshot_2021-06-10_13_11_14](https://user-images.githubusercontent.com/47929033/124304935-aec09000-db64-11eb-8bd4-49237e09151f.png)
+###### After copying the RSA private key to new file :  
+![Screenshot_2021-06-10_13_11_51](https://user-images.githubusercontent.com/47929033/124305069-e2031f00-db64-11eb-8e26-cfb21c64dc91.png)
+![Screenshot_2021-06-10_13_14_01](https://user-images.githubusercontent.com/47929033/124305148-fc3cfd00-db64-11eb-8744-7ebc56f41d32.png)
+
 
 
 
