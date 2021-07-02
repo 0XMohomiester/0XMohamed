@@ -12,5 +12,19 @@
 ###### USERNAME: tryhackme
 ###### Password: tryhackme
 ###### just like this: 
-![ssh1 gpg](https://user-images.githubusercontent.com/47929033/124278466-96417d00-db46-11eb-9f93-55750807c33c.png)
+![ssh1 gpg](https://user-images.githubusercontent.com/47929033/124278466-96417d00-db46-11eb-9f93-55750807c33c.png) 
+###### I've logged into the Linux Fundamentals Part 2 machine using SSH! 
+###### No Answer Needed 
+###### Task 3) introduction to flags and switches 
+###### In this task he talks to me about how to interact with Linux files system and most used commands on Linux OS …
+###### 1) Explore the manual page of the ls command 
+###### No Answer Needed 
+###### 2) What directional arrow key would we use to navigate down the manual page? 
+###### Answer is down 
+###### 3) What flag would we use to display the output in a "human-readable" way?
+###### Answer is –h    from manual page of ls command: 
+![ls](https://user-images.githubusercontent.com/47929033/124279076-5333d980-db47-11eb-9f82-67c5b1baf91d.png)
+
+
+
 
