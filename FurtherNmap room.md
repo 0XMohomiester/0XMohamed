@@ -142,6 +142,7 @@
 ###### Task 14) Practical 
 ###### in this task I deployed thm machine in this room to start answering the questions
 ###### 1) Does the target (10.10.101.81)respond to ICMP (ping) requests (Y/N)? 
+###### Answer is N    in practical : 
 
 
 
