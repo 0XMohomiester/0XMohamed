@@ -33,7 +33,7 @@
 ###### Yea - Because public key encrypt data only not decrypt 
  ###### Task 6) RSA – Rivest shamir Adleman 
 ###### 1)  p = 4391, q = 6659. What is n? 
-###### Answer is 29239669 … just like the photo below:
+###### Answer is 29239669 … just like the photo below :
 ![Screen Shot 2021-06-10 at 6 46 37 PM](https://user-images.githubusercontent.com/47929033/124304082-85533480-db63-11eb-8fad-4a7e50c2a260.png)
 ###### 2) I understand enough about RSA to move on, and I know where to look to learn more if I want to. - No Answer is needed 
 ###### Task 7) Establishing keys Using Asymmetric Cryptography 
@@ -41,7 +41,7 @@
 ###### No Answer Needed 
 ###### Task 8) Digital Signatures and Certificates 
 ###### 1) What company is TryHackMe's certificate issued to? 
-###### Answer is “Cloudflare” …. Just Like the Photo Below: 
+###### Answer is “Cloudflare” …. Just Like the Photo Below : 
 ![cert](https://user-images.githubusercontent.com/47929033/124304580-2e019400-db64-11eb-8b7d-cf90acca62d6.png)
 ###### Task 9) SSH Authentication
 ###### 1) I recommend giving this a go yourself. Deploy a VM, like Linux Fundamentals 2 and try to add an SSH key and log in with the private key  
@@ -49,7 +49,7 @@
 ###### 2) Download the SSH Private Key attached to this room 
 ###### No Answer Needed 
 ###### 3) What algorithm does the key use? 
-###### Answer is RSA … Just Like the Photo Below:
+###### Answer is RSA … Just Like the Photo Below :
 ![Screenshot_2021-06-10_13_11_14](https://user-images.githubusercontent.com/47929033/124304935-aec09000-db64-11eb-8bd4-49237e09151f.png)
 ###### After copying the RSA private key to new file :  
 ![Screenshot_2021-06-10_13_11_51](https://user-images.githubusercontent.com/47929033/124305069-e2031f00-db64-11eb-8e26-cfb21c64dc91.png)
@@ -67,7 +67,7 @@
 ###### 1) Time to try some GPG. Download the archive attached and extract it somewhere sensible. 
 ###### No Answer Needed 
 ###### 2) You have the private key, and a file encrypted with the public key. Decrypt the file. What's the secret word?  
-###### Answer is Pineapple  … Just Like The Photo Below:
+###### Answer is Pineapple  … Just Like The Photo Below :
 ![Screenshot_2021-06-11_15_08_45](https://user-images.githubusercontent.com/47929033/124305814-dd8b3600-db65-11eb-99be-f7ddf6b1b3c5.png)
 ###### Task 12) I understand that quantum computers affect the future of encryption. I know where to look if I want to learn more. 
 ###### No Answer Needed  
