@@ -11,4 +11,16 @@
 ###### 2) How many of these are available on any network-enabled computer? 
 ###### Answer)65535  
 ###### Every computer has a total of 65535 available Ports 
+###### 3) [Research] How many of these are considered "well-known"? (These are the "standard" numbers mentioned in the task) 
+###### Answer is 1024 
+###### By asking google I found that the Ports Between UDP and TCP are 65535 Ports available for communication between devices and this impressive are three classes of port: 1 Well-known ports: Range from 0–1023. 
+
+###### Task 3) Nmap switches  
+###### 1) What is the first switch listed in the help menu for a 'Syn Scan' (more on this later!)? 
+###### Answer is  –sS  (by using command (nmap –h ) can show scan techniques)
+###### 2) Which switch would you use for a "UDP scan"? 
+###### Answer is –sU  (by using command (nmap –h ) can show scan techniques)
+###### 3) If you wanted to detect which operating system the target is running on, which switch would you use? 
+###### Answer is  –O (by using command (nmap –h ) can show OS detection)
+
  
