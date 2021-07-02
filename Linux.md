@@ -5,16 +5,16 @@
 ###### Task 2) Accessing Your Linux Machine Using SSH (deploy):  
 ###### Now I will deploy the machine (THM MACHINE) and connect to the THM Network Using OpenVPN ..
 ###### Let's start with ... What is SSH?  and how Does it work?  
-######
-######
-######
-######
-######
-######
-######
-######
-######
-######
-######
 ###### 
 ###### 
+###### 
+######  
+###### 
+###### 
+###### 
+###### 
+###### 
+###### 
+###### 
+######  
+######  
