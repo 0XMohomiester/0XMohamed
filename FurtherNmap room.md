@@ -119,6 +119,15 @@
 
 ![Picture1](https://user-images.githubusercontent.com/47929033/124309826-9ef87a00-db6b-11eb-8c5a-9404f3e8a133.png) 
 
+###### The command is maxlist :)
+###### Task 12) Searching For Scripts 
+###### In this task we can look for that nmap saved categories of scripts in : 
+###### /usr/share/nmap/scripts/scripts.db 
+###### 1) Search for "smb" scripts in the /usr/share/nmap/scripts/ directory using either of the demonstrated methods.
+###### What is the filename of the script which determines the underlying OS of the SMB server? 
+###### Answer is smb-os-discovery.nse   look to the below page : 
+
+
 
 
 
