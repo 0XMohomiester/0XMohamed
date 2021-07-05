@@ -166,7 +166,7 @@
 ###### Answer is Y 
 
 ###### Task 15) Conclusion
-###### Now I understand how Nmap work and know how to use it in penetration testing :)
+###### Now I understand how Nmap work and know how to use it in penetration testing 
 
 
 
