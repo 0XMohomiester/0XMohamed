@@ -54,6 +54,20 @@
 
 ![Screen Shot 2021-06-14 at 7 45 19 PM](https://user-images.githubusercontent.com/47929033/125172191-91b93c00-e1b8-11eb-90a1-928d3368ecc9.png)
 
+###### 12) What tool was used to get Windows passwords? 
+###### Answer is Mimikatz 
+###### 13) What was the attackers external control and command servers IP? 
+###### Answer is 76.32.97.132 … By asking google I find that the windows host file used for maps the server and hostnames and ip addresses that stored in “C:\Windows\system32\drivers\etc\hosts … content of hosts file: 
+
+![Screen Shot 2021-06-14 at 7 20 51 PM](https://user-images.githubusercontent.com/47929033/125172236-cfb66000-e1b8-11eb-93fb-01a6e0882006.png)
+
+###### 14) What was the extension name of the shell uploaded via the servers website? 
+###### Answer is .jsp  … by asking google I find Microsoft uses IIs (internet information services) 
+###### As a default web browser on the windows. and inetpub is the default folder situated under “C:\Inetpub”.... we can go to the directory and go to “wwwroot” is a folder it contains a  webserver content … Just Like the photo Below: 
+![Screen Shot 2021-06-14 at 7 28 05 PM](https://user-images.githubusercontent.com/47929033/125172256-ed83c500-e1b8-11eb-9dce-c8ec5f8ce713.png)
+
+
+
 
 
 
