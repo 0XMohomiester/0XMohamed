@@ -70,6 +70,13 @@
 ###### Answer is 1337 … by opening firewall inbound role and see the rules: 
 ![Screen Shot 2021-06-14 at 7 24 17 PM](https://user-images.githubusercontent.com/47929033/125172285-1dcb6380-e1b9-11eb-9efd-fbd427f06021.png)
 
+###### 16) Check for DNS poisoning, what site was tar
+###### Answer is google.com … we can see in the photo below: 
+
+
+![Screen Shot 2021-06-14 at 7 20 51 PM](https://user-images.githubusercontent.com/47929033/125172335-7d297380-e1b9-11eb-8d0f-75e6c2727ed3.png)
+
+
 
 
 
