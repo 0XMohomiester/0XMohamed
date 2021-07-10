@@ -44,6 +44,8 @@
 ###### That a program called “mimi.exe”stored in TMP directory and it start every 5 minutes 
 ###### And redirect to save the output in o.txt in the same directory... the content of file:
 
+![Screen Shot 2021-06-16 at 9 20 26 PM](https://user-images.githubusercontent.com/47929033/125172157-5454ae80-e1b8-11eb-8150-cd228327be75.png)
+
 
 
 
