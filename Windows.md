@@ -46,6 +46,15 @@
 
 ![Screen Shot 2021-06-16 at 9 20 26 PM](https://user-images.githubusercontent.com/47929033/125172157-5454ae80-e1b8-11eb-8150-cd228327be75.png)
 
+###### As you can see which used tool called “mimkatz” is used for capturing windows password 
+###### 11) At what time did Windows first assign special privileges to a new logon? 
+###### Answer format: MM/DD/YYYY HH:MM:SS AM/PM 
+###### Answer is 03/02/2019 4:04:49 PM... by opening event viewer and go to windows logs and to security tab and scroll down to see 03/02/2019 … Just like the Photo Below: 
+
+
+![Screen Shot 2021-06-14 at 7 45 19 PM](https://user-images.githubusercontent.com/47929033/125172191-91b93c00-e1b8-11eb-90a1-928d3368ecc9.png)
+
+
 
 
 
