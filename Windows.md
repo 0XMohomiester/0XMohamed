@@ -26,6 +26,27 @@
 ###### Answer is clean file system … open scheduled task Just like the photo below:
 ![Screen Shot 2021-06-14 at 1 59 31 AM](https://user-images.githubusercontent.com/47929033/125172026-8fa2ad80-e1b7-11eb-927c-55bab6bc1676.png)
 
+###### Open Task Schedular Library and got to “clean the system” and see the Action tab that command used netcat to listening on port 1348 ... it’s malicious 
+###### 7) What file was the task trying to run daily? 
+###### Answer is nc.psi 
+###### 8) What port did this file listen locally for? 
+###### Answer is 1348 
+###### 9) When did Jenny last logon? 
+###### Answer is Never ... using “net user Jenny” Just like the photo below to see the last logon: 
+![Screen Shot 2021-06-16 at 8 42 43 PM](https://user-images.githubusercontent.com/47929033/125172089-dc868400-e1b7-11eb-95f6-b307518afbd7.png)
+
+###### 10) At what date did the compromise take place? 
+###### Answer format: MM/DD/YYYY 
+###### Answer is 03/02/2019 By opening Task schedular and go to Gameover Task and see The Action tab … we find: 
+
+![Screen Shot 2021-06-16 at 9 07 20 PM](https://user-images.githubusercontent.com/47929033/125172119-00e26080-e1b8-11eb-83eb-2699f2181656.png)
+
+###### That a program called “mimi.exe”stored in TMP directory and it start every 5 minutes 
+###### And redirect to save the output in o.txt in the same directory... the content of file:
+
+
+
+
 
 
 
