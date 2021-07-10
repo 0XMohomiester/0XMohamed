@@ -24,6 +24,7 @@
 
 ###### 6) What's the name of the scheduled task that is malicious? 
 ###### Answer is clean file system … open scheduled task Just like the photo below:
+![Screen Shot 2021-06-14 at 1 59 31 AM](https://user-images.githubusercontent.com/47929033/125172026-8fa2ad80-e1b7-11eb-927c-55bab6bc1676.png)
 
 
 
