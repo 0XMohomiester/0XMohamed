@@ -68,6 +68,7 @@
 
 ###### 15) What was the last port the attacker opened? 
 ###### Answer is 1337 … by opening firewall inbound role and see the rules: 
+![Screen Shot 2021-06-14 at 7 24 17 PM](https://user-images.githubusercontent.com/47929033/125172285-1dcb6380-e1b9-11eb-9efd-fbd427f06021.png)
 
 
 
