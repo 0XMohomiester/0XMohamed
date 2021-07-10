@@ -20,6 +20,12 @@
 ###### by checking users privilege Using command: “net user Guest” for Guest user, and “net user Jenny” for Jenny user ... Just Like the photo below : 
 ![Screen Shot 2021-06-16 at 8 42 22 PM](https://user-images.githubusercontent.com/47929033/125171965-46eaf480-e1b7-11eb-8adc-ca94ea19b12c.png)
 
+![Screen Shot 2021-06-16 at 8 42 43 PM](https://user-images.githubusercontent.com/47929033/125171978-566a3d80-e1b7-11eb-8718-d55ebc8cca94.png)
+
+###### 6) What's the name of the scheduled task that is malicious? 
+###### Answer is clean file system … open scheduled task Just like the photo below:
+
+
 
 
 
