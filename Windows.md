@@ -66,6 +66,10 @@
 ###### As a default web browser on the windows. and inetpub is the default folder situated under “C:\Inetpub”.... we can go to the directory and go to “wwwroot” is a folder it contains a  webserver content … Just Like the photo Below: 
 ![Screen Shot 2021-06-14 at 7 28 05 PM](https://user-images.githubusercontent.com/47929033/125172256-ed83c500-e1b8-11eb-9dce-c8ec5f8ce713.png)
 
+###### 15) What was the last port the attacker opened? 
+###### Answer is 1337 … by opening firewall inbound role and see the rules: 
+
+
 
 
 
