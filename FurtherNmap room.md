@@ -290,7 +290,7 @@ Note: The answer will be in your scan results. Think carefully about which switc
 
 read the hint before asking for help!
 
-Answer is No response 
+Answer is `No response` 
 
 ![Picture1](https://user-images.githubusercontent.com/47929033/124311744-7faf1c00-db6e-11eb-9482-50a9d63b5d46.png)
 
@@ -300,7 +300,7 @@ is recvd :0 … then no response from machine
 4) Perform a TCP SYN scan on the first 5000 ports of the target -- how many ports are shown to be
 open? 
 
-Answer is `5`   by using command sudo nmap -sT -Pn -p0-5000 10.10.101.81
+Answer is `5`   by using command `sudo nmap -sT -Pn -p0-5000 10.10.101.81`
 
 Just like this : 
 ![Picture1](https://user-images.githubusercontent.com/47929033/124311958-d6b4f100-db6e-11eb-9432-d50c4e3bd575.png)
