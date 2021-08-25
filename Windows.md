@@ -1,8 +1,8 @@
 ## Investigating windows
- Hello...  This My Writeup for Investigating windows THM room Let’s Start with:
- Task1) Investigating Windows 
- 1) What's the version and year of the windows machine? 
- Answer is windows server 2016 – by using `systeminfo` command on cmd  Just Like the photo below:
+Hello...  This My Writeup for Investigating windows THM room Let’s Start with:
+Task1) Investigating Windows 
+1) What's the version and year of the windows machine? 
+Answer is windows server 2016 – by using `systeminfo` command on cmd  Just Like the photo below:
 
 ![Screen Shot 2021-06-16 at 8 31 18 PM](https://user-images.githubusercontent.com/47929033/125171741-063eab80-e1b6-11eb-98e9-4020a5354955.png)
 
@@ -13,7 +13,9 @@ Answer is 03/02/2019 5:48:32 PM – By using command `net user John`  Just like 
 
 ![Picture1](https://user-images.githubusercontent.com/47929033/125171863-df34a980-e1b6-11eb-8b36-3f0f654cd195.png)
  
-4) What IP does the system connect to when it first starts? Answer is ``10.34.2.3`` -- Just like the Photo below:
+4) What IP does the system connect to when it first starts? 
+
+ Answer is ``10.34.2.3`` -- Just like the Photo below:
 
 ![Screen Shot 2021-06-16 at 8 29 52 PM](https://user-images.githubusercontent.com/47929033/
 125171888-fa9fb480-e1b6-11eb-9347-db668d5ce514.png)
