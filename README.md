@@ -2,6 +2,8 @@
 
 ## [Nmap](./FurtherNmap room.html)
 
+An in depth look at scanning with Nmap, a powerful network scanning tool.
+
 ## [Investigating Windows](./Windows.html)
 
 ## [Linux Fundamentals Part 1](./Linux.html)
