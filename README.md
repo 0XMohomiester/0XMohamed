@@ -1,4 +1,6 @@
-### Hello this is my writeups for THM rooms
+### Hello i am [mohamed!](https://twitter.com/0xMohomiester) this is my writeups for some tryhackme rooms hope you guys to understand how to solve them...;)
+
+
 ## [Investigating Windows](./Windows.html)
 
 ## [Linux Fundamentals Part 1](./Linux.html)
