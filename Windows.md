@@ -13,8 +13,7 @@ Answer is 03/02/2019 5:48:32 PM – By using command `net user John`  Just like 
 
 ![Picture1](https://user-images.githubusercontent.com/47929033/125171863-df34a980-e1b6-11eb-8b36-3f0f654cd195.png)
  
- 4) What IP does the system connect to when it first starts? 
- Answer is ``10.34.2.3`` -- Just like the Photo below:
+4) What IP does the system connect to when it first starts? Answer is ``10.34.2.3`` -- Just like the Photo below:
 
 ![Screen Shot 2021-06-16 at 8 29 52 PM](https://user-images.githubusercontent.com/47929033/
 125171888-fa9fb480-e1b6-11eb-9347-db668d5ce514.png)
