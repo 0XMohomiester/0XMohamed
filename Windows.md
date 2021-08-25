@@ -104,7 +104,7 @@ Answer is `Mimikatz`
 Answer is `76.32.97.132` … By asking google I find that the windows host file used for maps the 
 server 
  
-and hostnames and ip addresses that stored in “C:\Windows\system32\drivers\etc\hosts … content of 
+and hostnames and ip addresses that stored in "C:\Windows\system32\drivers\etc\hosts" … content of 
  
 hosts file: 
 
