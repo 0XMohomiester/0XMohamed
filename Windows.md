@@ -1,6 +1,5 @@
 ## Investigating windows
 Hello! i am [mohamed](https://twitter.com/0xMohomiester) This My Writeup for Investigating windows 
-
 tryhackme room Let’s Start with:
 
 Task1) Investigating Windows 
