@@ -1,6 +1,5 @@
 ## Hello! I'm [Mohamed](https://twitter.com/0xMohomiester) This is My Writeup for [Encryption - Crypto 101](https://tryhackme.com/room/encryptioncrypto101) TryHackme Room Let's start with:
 
-
 Task 1) I am ready to learn about encryption  
 
 No Answer Needed  
