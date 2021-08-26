@@ -1,4 +1,4 @@
-## Hello! I'm [Mohamed](https://twitter.com/0xMohomiester) This is My Writeup for [Investigating windows](https://tryhackme.com/room/investigatingwindows) part 2 TryHackme Room Let's start with:
+## Hello! I'm [Mohamed](https://twitter.com/0xMohomiester) This is My Writeup for [Investigating windows](https://tryhackme.com/room/investigatingwindows) TryHackme Room Let's start with:
 
 Task1) Investigating Windows 
 
