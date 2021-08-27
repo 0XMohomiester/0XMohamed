@@ -1,4 +1,4 @@
-## Hello! i am [mohamed](https://twitter.com/0xMohomiester) this is my writeups for some tryhackme rooms, hope you guys to understand how to solve them
+## Hello! I'm [mohamed](https://twitter.com/0xMohomiester) this is my writeups for some tryhackme rooms, hope you guys to understand how to solve them
 
 ## [Nmap](./FurtherNmap room.html)
 
